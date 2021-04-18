@@ -619,116 +619,173 @@
                 chainId: 56,
                 cows: [{
                     id: 1,
-                    name: "HDProtocol (HDP)",
-                    avatar: "/HDPonly.png",
-                    desc: "Earn HDP by Staking your HDP Tokens!",
+                    name: "ETHBot (ETHB)",
+                    avatar: "/ETHBonly.png",
+                    desc: "Earn ETHB by Staking your ETHB Tokens!",
                     initialized: !0,
-                    routeLink: "/pump",
+                    routeLink: "/ethb",
                     address: "xxx",
                     stakeToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
                     },
                     yieldToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
                     }
                 }, {
                     id: 2,
-                    name: "HDP-BNB",
-                    avatar: "/hdpBNB.png",
-                    desc: "Earn HDP by Staking your HDP-BNB LP!",
-                    routeLink: "/pumpbnb",
+                    name: "ETHB-BNB",
+                    avatar: "/ethbBNB.png",
+                    desc: "Earn ETHB by Staking your ETHB-BNB LP!",
+                    routeLink: "/ethbbnb",
                     initialized: !0,
                     totalAmount: 2e3,
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
                         decimals: 18,
-                        symbol: "HDP-BNB LP"
+                        symbol: "ETHB-BNB LP"
                     },
                     yieldToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
                     }
                 }, {
                     id: 3,
-                    name: "HDP-BUSD",
-                    avatar: "/hdpBUSD.png",
-                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    name: "ETHB-BUSD",
+                    avatar: "/ethbBUSD.png",
+                    desc: "Earn ETHB by Staking your ETHB-BUSD LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/pumpbusd",
+                    routeLink: "/ethbbusd",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
                         decimals: 18,
-                        symbol: "HDP-BUSD LP"
+                        symbol: "ETHB-BUSD LP"
                     },
                     yieldToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
                     }
                 }, {
                     id: 4,
-                    name: "HDP-BUSD",
-                    avatar: "/hdpBUSD.png",
-                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    name: "ETHB-CAKE",
+                    avatar: "/ethbETH.png",
+                    desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/pumpbusd",
+                    routeLink: "/ethbcake",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
                         decimals: 18,
-                        symbol: "HDP-BUSD LP"
+                        symbol: "ETHB-CAKE LP"
                     },
                     yieldToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
                     }
                 }, {
                     id: 5,
-                    name: "HDP-BUSD",
-                    avatar: "/hdpBUSD.png",
-                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    name: "ETHB-ETH",
+                    avatar: "/ethbETH.png",
+                    desc: "Earn ETHB by Staking your ETHB-ETH LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/pumpbusd",
+                    routeLink: "/ethbeth",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
                         decimals: 18,
-                        symbol: "HDP-BUSD LP"
+                        symbol: "ETHB-ETH LP"
                     },
                     yieldToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
                     }
                 }, {
                     id: 6,
-                    name: "HDP-BUSD",
-                    avatar: "/hdpBUSD.png",
-                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    name: "ETHB-BUSDT",
+                    avatar: "/ethbBUSDT.png",
+                    desc: "Earn ETHB by Staking your ETHB-BUSDT LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/pumpbusd",
+                    routeLink: "/ethbbusdt",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
                         decimals: 18,
-                        symbol: "HDP-BUSD LP"
+                        symbol: "ETHB-BUSDT LP"
                     },
                     yieldToken: {
                         address: "0x0fc64a803745275971fe40028196e9ddd684945b",
                         decimals: 18,
-                        symbol: "HDP"
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 7,
+                    name: "ETHB-DOGE",
+                    avatar: "/ethbDOGE.png",
+                    desc: "Earn ETHB by Staking your ETHB-DOGE LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/ethbdoge",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-DOGE LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 8,
+                    name: "ETHB-ADA",
+                    avatar: "/ethbADA.png",
+                    desc: "Earn ETHB by Staking your ETHB-ADA LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/ethbada",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-ADA LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 9,
+                    name: "ETHB-DOT",
+                    avatar: "/ethbDOT.png",
+                    desc: "Earn ETHB by Staking your ETHB-DOT LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/ethbdot",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-DOT LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "ETHB"
                     }
                 }],
                 hybird: {
