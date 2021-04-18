@@ -44,7 +44,7 @@
                         }
                     }, [t._v("0x0fc64a803745275971fE40028196E9DDd684945B")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.hdpstaking",
+                            path: "about.ethbstaking",
                             tag: "label",
                             for: "about.milk-address"
                         }
@@ -55,7 +55,7 @@
                         }
                     }, [t._v("XXX")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.hdpbnb",
+                            path: "about.ethbbnb",
                             tag: "label",
                             for: "about.milk-address"
                         }
@@ -66,7 +66,7 @@
                         }
                     }, [t._v("xxx")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.hdpbnbstaking",
+                            path: "about.ethbbnbstaking",
                             tag: "label",
                             for: "about.milk-address"
                         }
@@ -77,7 +77,7 @@
                         }
                     }, [t._v("xxx")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.hdpbusd",
+                            path: "about.ethbbusd",
                             tag: "label",
                             for: "about.milk-address"
                         }
@@ -88,7 +88,7 @@
                         }
                     }, [t._v("xxx")])]), t._v(" "), c("i18n", {
                         attrs: {
-                            path: "about.hdpbusdstaking",
+                            path: "about.ethbbusdstaking",
                             tag: "label",
                             for: "about.milk-address"
                         }
