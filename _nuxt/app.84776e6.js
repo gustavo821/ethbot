@@ -673,6 +673,63 @@
                         decimals: 18,
                         symbol: "HDP"
                     }
+                }, {
+                    id: 4,
+                    name: "HDP-BUSD",
+                    avatar: "/hdpBUSD.png",
+                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/pumpbusd",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "HDP-BUSD LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "HDP"
+                    }
+                }, {
+                    id: 5,
+                    name: "HDP-BUSD",
+                    avatar: "/hdpBUSD.png",
+                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/pumpbusd",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "HDP-BUSD LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "HDP"
+                    }
+                }, {
+                    id: 6,
+                    name: "HDP-BUSD",
+                    avatar: "/hdpBUSD.png",
+                    desc: "Earn HDP by Staking your HDP-BUSD LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/pumpbusd",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "HDP-BUSD LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "HDP"
+                    }
                 }],
                 hybird: {
                     id: 4,
