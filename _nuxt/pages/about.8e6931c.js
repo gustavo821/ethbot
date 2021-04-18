@@ -76,7 +76,7 @@
                 }, function() {
                     var t = this.$createElement,
                         e = this._self._c || t;
-                    return e("div", [e("h4", [this._v("Where Can I Buy ETHBot ($ETHB]), this._v(" "), e("div", [this._v("\n          HDP is current available on "), e("a", {
+                    return e("div", [e("h4", [this._v("Where Can I Buy ETHBot ($ETHB]), this._v(" "), e("div", [this._v("\n          ETHB is current available on "), e("a", {
                         attrs: {
                             href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency="
                         }
