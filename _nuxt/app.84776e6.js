@@ -680,7 +680,7 @@
                     desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbcake",
+                    routeLink: "/ethb",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
