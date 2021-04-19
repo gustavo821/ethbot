@@ -38,7 +38,7 @@
                             tag: "label",
                             for: "about.total-supply-number"
                         }
-                    }, [n("b", [t._v("120000")])])], 1), t._v(" "), n("p", [t._v("\n        " + t._s(t.$t("about.desc")) + "\n      ")]), t._v(" "), n("p", [n("i18n", {
+                    }, [n("b", [t._v("210000")])])], 1), t._v(" "), n("p", [t._v("\n        " + t._s(t.$t("about.desc")) + "\n      ")]), t._v(" "), n("p", [n("i18n", {
                         attrs: {
                             path: "about.drop-free",
                             tag: "label",
@@ -67,7 +67,7 @@
                     var t = this,
                         e = t.$createElement,
                         n = t._self._c || e;
-                    return n("div", [t._v("\n        \n          Staking rewards allocation: 20% of supply, est. 30000 ETHB"), n("br"), t._v("\n          IDO allocation: 50% of supply, est. 60,000 ETHB"), n("br"), t._v("\n          Marketing & Development : 5% of supply, 6000 ETHB"), n("br"), t._v("\n          Initial transactions burns: 5% of supply, 6000 ETHB"), n("br"), t._v(" "), n("b", [t._v("Reward Rate")]), t._v(": Fixed at 0.08 emissions per block"), n("br"), n("br"), t._v(" "), n("span", {
+                    return n("div", [t._v("\n        \n          Staking rewards allocation: 62% of supply, est. 130000 ETHB"), n("br"), t._v("\n          IDO allocation: 28% of supply, est. 60,000 ETHB"),  t._v("\n         Pancake Liquidity,Marketing & Initial Txns burns: 5% of supply, 6000 ETHB"), n("br"), t._v(" "), n("b", [t._v("Reward Rate")]), t._v(": Fixed at 0.08 emissions per block"), n("br"), n("br"), t._v(" "), n("span", {
                         staticStyle: {
                             color: "red",
                             "text-decoration": "underline"
