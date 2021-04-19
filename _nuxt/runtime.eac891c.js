@@ -57,7 +57,8 @@
                         12: "pages/ethb",
                         13: "pages/ethbbnb",
                         14: "pages/ethbbusd",
-                        15: "pages/pumpkin"
+                        15: "pages/pumpkin",
+                        16: "pages/ethbcake"
                     }[e] || e) + "." + {
                         0: "0a04846",
                         1: "5995827",
@@ -72,7 +73,8 @@
                         12: "443a6e9",
                         13: "2598c96",
                         14: "f216b23",
-                        15: "f1549b2"
+                        15: "f1549b2",
+                        16: "2555c96"
                     }[e] + ".js"
                 }(e);
                 var f = new Error;
