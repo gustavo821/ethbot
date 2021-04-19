@@ -49,7 +49,7 @@
                             return regeneratorRuntime.wrap((function(t) {
                                 for (;;) switch (t.prev = t.next) {
                                     case 0:
-                                        return r = new c.j, o = [r.getPriceofHDPBNB(), r.getPriceofBNBBUSD()], t.next = 4, Promise.all(o);
+                                        return r = new c.j, o = [r.getPriceofETHBBNB(), r.getPriceofBNBBUSD()], t.next = 4, Promise.all(o);
                                     case 4:
                                         return l = t.sent, console.log("Prices are " + l), e.priceMILKUSDT = Object(d.BigNumber)(l[0] * l[1]), e.priceBNBUSDT = l[1], f = new c.e(e.hybirdCow.address, e.hybirdCow.stakeToken, e.hybirdCow.yieldToken), v = new c.f(c.b), t.next = 12, v.APY();
                                     case 12:
@@ -135,7 +135,7 @@
                         staticStyle: {
                             "text-align": "center"
                         }
-                    }, [e._v("\n\n    1 $HDP = $" + e._s(e.priceMILKUSDT ? e.priceMILKUSDT.toFixed(2) : "--") + " "), r("br"), e._v(" "), r("div", {
+                    }, [e._v("\n\n    1 $ETHB = $" + e._s(e.priceMILKUSDT ? e.priceMILKUSDT.toFixed(2) : "--") + " "), r("br"), e._v(" "), r("div", {
                         staticClass: "col-4"
                     })])]), e._v(" "), r("br"), e._v(" "), r("div", {
                         staticClass: "row"
