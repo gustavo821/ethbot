@@ -80,7 +80,7 @@
                         attrs: {
                             href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency="
                         }
-                    }, [this._v("PancakeSwap")]), this._v("."), e("br"), this._v("\n          IDO price: 1 $ETHB = est 0.05 BNB\n        ")])])
+                    }, [this._v("PancakeSwap")]), this._v("."), e("br"), this._v("\n          IDO price: 1 $ETHB = est 0.1 BNB\n        ")])])
                 }], !1, null, "cbed1bfc", null);
             e.default = component.exports
         }
