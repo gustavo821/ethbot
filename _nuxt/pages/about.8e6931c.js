@@ -67,7 +67,7 @@
                     var t = this,
                         e = t.$createElement,
                         n = t._self._c || e;
-                    return n("div", [t._v("\n        \n          Staking rewards allocation: 20% of supply, est. 30000 HDP"), n("br"), t._v("\n          IDO allocation: 50% of supply, est. 60,000 HDP"), n("br"), t._v("\n          Marketing & Development : 5% of supply, 6000 HDP"), n("br"), t._v("\n          Initial transactions burns: 5% of supply, 6000 HDP"), n("br"), t._v(" "), n("b", [t._v("Reward Rate")]), t._v(": Fixed at 0.08 emissions per block"), n("br"), n("br"), t._v(" "), n("span", {
+                    return n("div", [t._v("\n        \n          Staking rewards allocation: 20% of supply, est. 30000 ETHB"), n("br"), t._v("\n          IDO allocation: 50% of supply, est. 60,000 ETHB"), n("br"), t._v("\n          Marketing & Development : 5% of supply, 6000 ETHB"), n("br"), t._v("\n          Initial transactions burns: 5% of supply, 6000 ETHB"), n("br"), t._v(" "), n("b", [t._v("Reward Rate")]), t._v(": Fixed at 0.08 emissions per block"), n("br"), n("br"), t._v(" "), n("span", {
                         staticStyle: {
                             color: "red",
                             "text-decoration": "underline"
@@ -76,11 +76,11 @@
                 }, function() {
                     var t = this.$createElement,
                         e = this._self._c || t;
-                    return e("div", [e("h4", [this._v("Where Can I Buy HDPROTOCOL ($HDP)?")]), this._v(" "), e("div", [this._v("\n          HDP is current available on "), e("a", {
+                    return e("div", [e("h4", [this._v("Where Can I Buy ETHBot ($ETHB)?")]), this._v(" "), e("div", [this._v("\n          ETHB is current available on "), e("a", {
                         attrs: {
                             href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency="
                         }
-                    }, [this._v("PancakeSwap")]), this._v("."), e("br"), this._v("\n          IDO price: 1 $HDP = est 0.05 BNB\n        ")])])
+                    }, [this._v("PancakeSwap")]), this._v("."), e("br"), this._v("\n          IDO price: 1 $ETHB = est 0.05 BNB\n        ")])])
                 }], !1, null, "cbed1bfc", null);
             e.default = component.exports
         }
