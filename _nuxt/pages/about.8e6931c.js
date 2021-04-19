@@ -67,7 +67,7 @@
                     var t = this,
                         e = t.$createElement,
                         n = t._self._c || e;
-                    return n("div", [t._v("\n        \n          Staking rewards allocation: 62% of supply, est. 130000 ETHB"), n("br"), t._v("\n          IDO allocation: 28% of supply, est. 60,000 ETHB"),  t._v("\n         Pancake Liquidity,Marketing & Initial Txns burns: 5% of supply, 6000 ETHB"), n("br"), t._v(" "), n("b", [t._v("Reward Rate")]), t._v(": Fixed at 0.08 emissions per block"), n("br"), n("br"), t._v(" "), n("span", {
+                    return n("div", [t._v("\n        \n          Staking rewards allocation: 62% of supply, est. 130000 ETHB"), n("br"), t._v("\n          IDO allocation: 28% of supply, est. 60,000 ETHB"),  t._v("\n         Pancake Liquidity,Marketing & Initial Txns burns: 10% of supply, 20000 ETHB"), n("br"), t._v(" "), n("b", [t._v("Reward Rate")]), t._v(": Fixed at 0.08 emissions per block"), n("br"), n("br"), t._v(" "), n("span", {
                         staticStyle: {
                             color: "red",
                             "text-decoration": "underline"
