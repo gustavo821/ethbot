@@ -52,7 +52,7 @@
                         7: "pages/contracts",
                         8: "pages/cow/_id",
                         9: "pages/cow/hybird",
-                        10: "pages/ethbcake",
+                        10: "pages/guard",
                         11: "pages/index",
                         12: "pages/ethb",
                         13: "pages/ethbbnb",
