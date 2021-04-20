@@ -559,6 +559,25 @@
                         decimals: 18,
                         symbol: "ETHB"
                     }
+                }, {
+                    id: 4,
+                    name: "ETHB-CAKE",
+                    avatar: "/ethbCAKE.png",
+                    desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/ethbcake",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-CAKE LP"
+                    },
+                    yieldToken: {
+                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
                 }],
                 hybird: {
                     id: 4,
