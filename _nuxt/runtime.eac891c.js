@@ -52,13 +52,12 @@
                         7: "pages/contracts",
                         8: "pages/cow/_id",
                         9: "pages/cow/hybird",
-                        10: "pages/guard",
+                        10: "pages/ethbcake",
                         11: "pages/index",
                         12: "pages/ethb",
                         13: "pages/ethbbnb",
                         14: "pages/ethbbusd",
-                        15: "pages/pumpkin",
-                        17: "pages/ethbcake"
+                        15: "pages/pumpkin"
                     }[e] || e) + "." + {
                         0: "0a04846",
                         1: "5995827",
@@ -73,8 +72,7 @@
                         12: "443a6e9",
                         13: "2598c96",
                         14: "f216b23",
-                        15: "f1549b2",
-                        17: "2555c96"
+                        15: "f1549b2"
                     }[e] + ".js"
                 }(e);
                 var f = new Error;
