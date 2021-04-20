@@ -18,7 +18,7 @@
     }
     var t = {},
         o = {
-            17: 0
+            16: 0
         },
         c = [];
 
@@ -58,7 +58,7 @@
                         13: "pages/ethbbnb",
                         14: "pages/ethbbusd",
                         15: "pages/pumpkin",
-                        16: "pages/ethbcake"
+                        17: "pages/ethbcake"
                     }[e] || e) + "." + {
                         0: "0a04846",
                         1: "5995827",
