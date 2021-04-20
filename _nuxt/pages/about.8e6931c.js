@@ -72,7 +72,7 @@
                             color: "red",
                             "text-decoration": "underline"
                         }
-                    }, [t._v("The token has a burn rate of 5% from every transaction amount to ensure a sustainable growth of the token’s value over time.")])])
+                    }, [t._v("The token has a burn rate of 2% from every transaction amount to ensure a sustainable growth of the token’s value over time.")])])
                 }, function() {
                     var t = this.$createElement,
                         e = this._self._c || t;
