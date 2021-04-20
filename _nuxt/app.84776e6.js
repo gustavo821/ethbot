@@ -1613,11 +1613,11 @@
                     },
                     name: "contracts"
                 }, {
-                    path: "/ethbcake",
+                    path: "/guard",
                     component: function() {
                         return Object(y.m)(n.e(10).then(n.bind(null, 686)))
                     },
-                    name: "ethbcake"
+                    name: "guard"
                 }, {
                     path: "/ethb",
                     component: function() {
@@ -2123,19 +2123,19 @@
                     }, [r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://twitter.com/Hdprotocol",
+                            href: "https://twitter.com/ethbot",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("footerbar.twitter")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://t.me/Hdprotocol_OFFICIALChat",
+                            href: "https://t.me/ethbot",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("footerbar.telegram_en")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://hdprotocol.io/files/techrate.pdf",
+                            href: "https://ethbot.live/files/techrate.pdf",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("Audit1")))]), t._v(" "), r("a", {
@@ -2147,7 +2147,7 @@
                     }, [t._v(t._s(t.$t("Audit2")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://exchange.hdprotocol.io",
+                            href: "https://exchange.ethbot.live",
                             target: "_blank"
                         }
                     }, [t._v("\n        Exchange\n      ")])])])])
