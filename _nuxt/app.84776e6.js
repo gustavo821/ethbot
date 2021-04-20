@@ -1613,11 +1613,11 @@
                     },
                     name: "contracts"
                 }, {
-                    path: "/guard",
+                    path: "/ethbcake",
                     component: function() {
                         return Object(y.m)(n.e(10).then(n.bind(null, 686)))
                     },
-                    name: "guard"
+                    name: "ethbcake"
                 }, {
                     path: "/ethb",
                     component: function() {
@@ -1636,12 +1636,6 @@
                         return Object(y.m)(Promise.all([n.e(1), n.e(0), n.e(14)]).then(n.bind(null, 677)))
                     },
                     name: "ethbbusd"
-                }, {
-                    path: "/ethbcake",
-                    component: function() {
-                        return Object(y.m)(Promise.all([n.e(1), n.e(0), n.e(16)]).then(n.bind(null, 688)))
-                    },
-                    name: "ethbcake"
                 }, {
                     path: "/pumpkin",
                     component: function() {
