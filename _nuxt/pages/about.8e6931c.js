@@ -44,7 +44,7 @@
                             tag: "label",
                             for: "about.drop-free-number"
                         }
-                    }, [n("b", [t._v("10")])])], 1), t._v(" "), n("h4", [t._v("Tokens Allocation (set1)")]), t._v(" "), t._m(0), t._v(" "), n("br"), t._v(" "), n("h4", [t._v(t._s(t.$t("about.cow")))]), t._v(" "), n("div", [n("i18n", {
+                    }, [n("b", [t._v("10")])])], 1), t._v(" "), n("h4", [t._v("Tokens Allocation")]), t._v(" "), t._m(0), t._v(" "), n("br"), t._v(" "), n("h4", [t._v(t._s(t.$t("about.cow")))]), t._v(" "), n("div", [n("i18n", {
                         attrs: {
                             path: "about.angier",
                             tag: "label",
