@@ -512,12 +512,12 @@
                     routeLink: "/ethb",
                     address: "xxx",
                     stakeToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -536,7 +536,7 @@
                         symbol: "ETHB-BNB LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -555,26 +555,7 @@
                         symbol: "ETHB-BUSD LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
-                        decimals: 18,
-                        symbol: "ETHB"
-                    }
-                }, {
-                    id: 4,
-                    name: "ETHB-CAKE",
-                    avatar: "/ethbCAKE.png",
-                    desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
-                    totalAmount: 2e3,
-                    initialized: !0,
-                    routeLink: "/ethbcake",
-                    address: "xxx",
-                    stakeToken: {
-                        address: "xxx",
-                        decimals: 18,
-                        symbol: "ETHB-CAKE LP"
-                    },
-                    yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -645,12 +626,12 @@
                     routeLink: "/ethb",
                     address: "xxx",
                     stakeToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -669,7 +650,7 @@
                         symbol: "ETHB-BNB LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -688,7 +669,7 @@
                         symbol: "ETHB-BUSD LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -707,7 +688,7 @@
                         symbol: "ETHB-CAKE LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -726,7 +707,7 @@
                         symbol: "ETHB-ETH LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -745,7 +726,7 @@
                         symbol: "ETHB-BUSDT LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -764,7 +745,7 @@
                         symbol: "ETHB-DOGE LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -783,7 +764,7 @@
                         symbol: "ETHB-ADA LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
@@ -802,7 +783,7 @@
                         symbol: "ETHB-DOT LP"
                     },
                     yieldToken: {
-                        address: "0x0fc64a803745275971fe40028196e9ddd684945b",
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
                         decimals: 18,
                         symbol: "ETHB"
                     }
