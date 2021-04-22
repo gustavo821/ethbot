@@ -676,7 +676,7 @@
                 }, {
                     id: 4,
                     name: "ETHB-CAKE",
-                    avatar: "/ethbETH.png",
+                    avatar: "/ethbCAKE.png",
                     desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
                     totalAmount: 2e3,
                     initialized: !0,
