@@ -2113,13 +2113,13 @@
                             href: "https://t.me/ethbot_live",
                             target: "_blank"
                         }
-                    }, [t._v(t._s(t.$t("footerbar.medium")))]), t._v(" "), r("a", {
+                    },  [t._v(t._s(t.$t("footerbar.telegram_en")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
                             href: "https://ethbot.medium.com/",
                             target: "_blank"
                         }
-                    }, [t._v(t._s(t.$t("footerbar.telegram_en")))]), t._v(" "), r("a", {
+                    }, [t._v(t._s(t.$t("Medium")))]),t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
                             href: "https://ethbot.live/files/techrate.pdf",
