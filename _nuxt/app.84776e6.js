@@ -680,7 +680,7 @@
                     desc: "Earn ETHB by Staking your ETHB-CAKE LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbcake",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
@@ -699,7 +699,7 @@
                     desc: "Earn ETHB by Staking your ETHB-ETH LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbeth",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
@@ -718,7 +718,7 @@
                     desc: "Earn ETHB by Staking your ETHB-BUSDT LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbbusdt",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
@@ -737,7 +737,7 @@
                     desc: "Earn ETHB by Staking your ETHB-DOGE LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbdoge",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
@@ -756,7 +756,7 @@
                     desc: "Earn ETHB by Staking your ETHB-ADA LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbada",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
@@ -775,7 +775,7 @@
                     desc: "Earn ETHB by Staking your ETHB-DOT LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbdot",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
@@ -2104,13 +2104,19 @@
                     }, [r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://twitter.com/ethbot",
+                            href: "https://twitter.com/ethbot_live",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("footerbar.twitter")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://t.me/ethbot",
+                            href: "https://t.me/ethbot_live",
+                            target: "_blank"
+                        }
+                    }, [t._v(t._s(t.$t("footerbar.medium")))]), t._v(" "), r("a", {
+                        staticClass: "link",
+                        attrs: {
+                            href: "https://ethbot.medium.com/",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("footerbar.telegram_en")))]), t._v(" "), r("a", {
@@ -2122,16 +2128,16 @@
                     }, [t._v(t._s(t.$t("Audit1")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://hdprotocol.io/files/anchain.pdf",
+                            href: "https://ethbot.live/files/anchain.pdf",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("Audit2")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://exchange.ethbot.live",
+                            href: "https://github.com/ethbotlive/ETHBot-Contracts",
                             target: "_blank"
                         }
-                    }, [t._v("\n        Exchange\n      ")])])])])
+                    }, [t._v("\n        Github\n      ")])])])])
                 }), [], !1, null, null, null).exports);
 
             function R(t) {
