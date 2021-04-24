@@ -2122,13 +2122,13 @@
                     }, [t._v(t._s(t.$t("Medium")))]),t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://ethbot.live/files/techrate.pdf",
+                            href: "https://ethbot.live/files/anchain.pdf",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("Audit1")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://ethbot.live/files/anchain.pdf",
+                            href: "https://ethbot.live/files/techrate.pdf",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("Audit2")))]), t._v(" "), r("a", {
