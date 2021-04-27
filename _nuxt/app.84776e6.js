@@ -2110,7 +2110,7 @@
                     }, [t._v(t._s(t.$t("footerbar.twitter")))]), t._v(" "), r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://t.me/ethbot_live",
+                            href: "https://t.me/ethbot_official",
                             target: "_blank"
                         }
                     },  [t._v(t._s(t.$t("footerbar.telegram_en")))]), t._v(" "), r("a", {
