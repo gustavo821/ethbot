@@ -787,6 +787,63 @@
                         decimals: 18,
                         symbol: "ETHB"
                     }
+                }, {
+                    id: 10,
+                    name: "IDO Launchpad Pair",
+                    avatar: "/launchpad.png",
+                    desc: "Earn ETHB by Staking your ETHB-DOT LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-DOT LP"
+                    },
+                    yieldToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 11,
+                    name: "IDO Launchpad Pair",
+                    avatar: "/launchpad.png",
+                    desc: "Earn ETHB by Staking your ETHB-DOT LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-DOT LP"
+                    },
+                    yieldToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
+                }, {
+                    id: 12,
+                    name: "IDO Launchpad Pair",
+                    avatar: "/launchpad.png",
+                    desc: "Earn ETHB by Staking your ETHB-DOT LP!",
+                    totalAmount: 2e3,
+                    initialized: !0,
+                    routeLink: "/",
+                    address: "xxx",
+                    stakeToken: {
+                        address: "xxx",
+                        decimals: 18,
+                        symbol: "ETHB-DOT LP"
+                    },
+                    yieldToken: {
+                        address: "0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320",
+                        decimals: 18,
+                        symbol: "ETHB"
+                    }
                 }],
                 hybird: {
                     id: 4,
