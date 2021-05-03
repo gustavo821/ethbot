@@ -39,10 +39,10 @@
                         }
                     }, [c("a", {
                         attrs: {
-                            href: "https://bscscan.com/address/0xa1048c1962ff508e7bc90ecf3744d2421c1c1320",
+                            href: "https://bscscan.com/address/0x2cdd3ab9caed3669f30b09db69fc797361f33476",
                             target: "_blank"
                         }
-                    }, [t._v("0xa1048c1962Ff508E7bC90Ecf3744D2421C1C1320")])]), t._v(" "), c("i18n", {
+                    }, [t._v("0x2CdD3aB9cAed3669F30b09db69fC797361F33476")])]), t._v(" "), c("i18n", {
                         attrs: {
                             path: "about.ethbstaking",
                             tag: "label",
