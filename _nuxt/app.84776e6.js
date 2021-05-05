@@ -2161,7 +2161,7 @@
                     }, [r("a", {
                         staticClass: "link",
                         attrs: {
-                            href: "https://twitter.com/ethbot_live",
+                            href: "https://twitter.com/ETHBot_ETHB",
                             target: "_blank"
                         }
                     }, [t._v(t._s(t.$t("footerbar.twitter")))]), t._v(" "), r("a", {
