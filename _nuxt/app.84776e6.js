@@ -623,7 +623,7 @@
                     avatar: "/ETHBonly.png",
                     desc: "Earn ETHB by Staking your ETHB Tokens!",
                     initialized: !0,
-                    routeLink: "/ethb",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "0x2cdd3ab9caed3669f30b09db69fc797361f33476",
@@ -640,7 +640,7 @@
                     name: "ETHB-BNB",
                     avatar: "/ethbBNB.png",
                     desc: "Earn ETHB by Staking your ETHB-BNB LP!",
-                    routeLink: "/ethbbnb",
+                    routeLink: "/",
                     initialized: !0,
                     totalAmount: 2e3,
                     address: "xxx",
@@ -661,7 +661,7 @@
                     desc: "Earn ETHB by Staking your ETHB-BUSD LP!",
                     totalAmount: 2e3,
                     initialized: !0,
-                    routeLink: "/ethbbusd",
+                    routeLink: "/",
                     address: "xxx",
                     stakeToken: {
                         address: "xxx",
